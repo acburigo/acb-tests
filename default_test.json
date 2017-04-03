@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "question": "What does USA mean?",
+      "answer": "United States of America",
+      "options": [
+        "United States of America",
+        "Union of States in America",
+        "Universal States of America",
+        "Union of States in Antarctica"
+      ]
+    },
+    {
+      "question": "How is our galaxy called?",
+      "answer": "Milky Way",
+      "options": [
+        "Earth",
+        "Universe",
+        "Milky Way",
+        "Sun",
+        "Andromeda"
+      ]
+    }
+  ]
+}
